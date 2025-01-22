@@ -1,5 +1,8 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import Testimonials from "@/components/Testimonials";
+import UpcomingWebinars from "@/components/UpcomingWebinars";
+import WhyChooseUs from "@/components/WhyChooseUs";
 
 export default function Home() {
   return (
@@ -7,6 +10,9 @@ export default function Home() {
       {/* <h1 className="text-2xl text-center">Do or Die</h1> */}
       <HeroSection />
       <FeaturedCourses />
+      <WhyChooseUs />
+      <Testimonials />
+      <UpcomingWebinars />
     </main>
   );
 }
