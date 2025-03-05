@@ -1,4 +1,4 @@
-## https://music-master-kappa.vercel.app/
+## Live preview: https://music-master-kappa.vercel.app/
 ## Getting Started
 
 First, run the development server:
